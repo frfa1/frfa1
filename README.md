@@ -12,11 +12,12 @@ I'm a data scientist from Denmark, currently working full-time as an AI engineer
 ## Languages and Frameworks:
 - Python, R, SQL, Java, C, Scala, HTML, CSS
 - PyTorch, TensorFlow, scikit-learn
+- FastAPI, FastMCP
 - Infrastructure-as-Code - BICEP/ARM
 - Shell-scripting/Bash
 - Pandas, NumPy, matplotlib, Tableau
 - GeoPandas, OpenCV
-- Postgres, Django, FastAPI, FastMCP, Wordpress
+- Postgres, Django, Wordpress
 
 ---
 ## Connect with me:
